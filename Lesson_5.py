@@ -1,10 +1,12 @@
-"""# Задача №1
+# C 5 задачи прорешивал по разобранному на прошлом уроке Д/З
+
+# Задача №1
 with open('one.txt', 'w', encoding='utf-8') as a:
     while True:
         line = input("Введите новую строку или пустую строку для завершения: ")
         if not line:
             break
-        print(line, file=a)"""
+        print(line, file=a)
 
 """my_name = input('Файл: ')
 a = open(my_namename,'w')
