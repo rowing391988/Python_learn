@@ -1,5 +1,5 @@
 # Задача #1
-"""import time
+import time
 
 
 class TrafficLight:
@@ -126,7 +126,7 @@ work = WorkCar('BMW', 30, 'Красный', False)
 print('3:\n' + work.go(), work.show_speed(), work.turn('направо'), work.stop())
 
 police = PoliceCar('Kia', 100, 'Черный', True)
-print('4:\n' + work.go(), work.show_speed(), work.turn('налево'), work.stop())"""
+print('4:\n' + work.go(), work.show_speed(), work.turn('налево'), work.stop())
 
 
 # Задача №5
